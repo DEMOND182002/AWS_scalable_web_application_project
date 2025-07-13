@@ -23,7 +23,7 @@ The architecture includes the following core components:
 
 ##  Architecture Diagram
 
-![Architecture Diagram](./scalable web application architecture.jpeg) 
+![Architecture Diagram]([./scalable web application architecture.jpeg](https://github.com/DEMOND182002/AWS_scalable_web_application_project/blob/main/scalable%20web%20application%20architecture.jpeg)) 
 
 ---
 
