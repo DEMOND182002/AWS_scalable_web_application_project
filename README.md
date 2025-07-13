@@ -23,11 +23,11 @@ The architecture includes the following core components:
 
 ##  Architecture Diagram
 
-![Architecture Diagram]("C:\Users\demond\Desktop\scalable web application architecture.jpeg") <!-- Replace with actual path or image URL -->
+![Architecture Diagram](./scalable-web-application-architecture.jpeg) <!-- Replace with actual path or image URL -->
 
 ---
 
-## 🚀 Deployment Steps
+##  Deployment Steps
 
 > You can deploy the infrastructure manually via the AWS Console or use Infrastructure as Code (e.g., Terraform or CloudFormation).
 
