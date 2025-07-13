@@ -57,7 +57,7 @@ The architecture includes the following core components:
 
 ---
 
-## 🛠 Tools and Services
+##  Tools and Services
 
 | Service         | Purpose                           |
 |----------------|-----------------------------------|
@@ -80,5 +80,5 @@ The architecture includes the following core components:
 
 ---
 
-## 📁 Repository Structure
+
 
