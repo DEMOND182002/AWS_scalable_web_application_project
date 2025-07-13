@@ -23,7 +23,7 @@ The architecture includes the following core components:
 
 ##  Architecture Diagram
 
-![Architecture Diagram](./scalable-web-application-architecture.jpeg) 
+![Architecture Diagram](./scalable web application architecture.jpeg) 
 
 ---
 
